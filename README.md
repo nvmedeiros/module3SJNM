@@ -40,7 +40,7 @@ Here is a short video of the game in action:
 
 ![Row the Boat Gameplay](./images/game-demo.gif)
 
-## Gameplay Screenshots
+## Game Screens
 
 ### Starting Screen
 ![Starting Screen](./images/StartingScreen.jpg)
