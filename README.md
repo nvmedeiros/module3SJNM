@@ -42,17 +42,17 @@ Here is a short video of the game in action:
 
 ## Visual Designs
 
-### Start Screen
-![Starting Screen](./images/StartingScreen.jpg)
+### Starting Screen
+![Starting Screen](./images/starting-screen.jpg)
 
 ### Gameplay Screen
-![Gameplay](./images/Gameplay.jpg)
+![Gameplay](./images/gameplay.jpg)
 
-### Drifting Screen
-![Drifting](./images/Drift.jpg)
+### Drift Screen
+![Drift](./images/drift.jpg)
 
 ### Game Over Screen
-![Game Over](./images/Game-Over.jpg)
+![Game Over](./images/game-over.jpg)
 
 ## AI Support Used
 
