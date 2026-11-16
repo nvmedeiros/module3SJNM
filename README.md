@@ -40,18 +40,18 @@ Here is a short video of the game in action:
 
 ![Row the Boat Gameplay](./images/game-demo.gif)
 
-## Game Screens
+## Visual Designs
 
-### Starting Screen
+### Start Screen
 ![Starting Screen](./images/StartingScreen.jpg)
 
-### Gameplay
+### Gameplay Screen
 ![Gameplay](./images/Gameplay.jpg)
 
-### Drifting
+### Drifting Screen
 ![Drifting](./images/Drift.jpg)
 
-### Game Over
+### Game Over Screen
 ![Game Over](./images/Game-Over.jpg)
 
 ## AI Support Used
