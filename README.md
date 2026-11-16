@@ -43,7 +43,7 @@ Here is a short video of the game in action:
 ## Gameplay Screenshots
 
 ### Starting Screen
-![Starting Screen](./images/starting-screen.jpg)
+![Starting Screen](./images/startingscreen.jpg)
 
 ### Gameplay
 ![Gameplay](./images/gameplay.jpg)
