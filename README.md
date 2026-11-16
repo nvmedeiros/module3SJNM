@@ -43,16 +43,16 @@ Here is a short video of the game in action:
 ## Gameplay Screenshots
 
 ### Starting Screen
-![Starting Screen](./images/startingscreen.jpg)
+![Starting Screen](./images/StartingScreen.jpg)
 
 ### Gameplay
-![Gameplay](./images/gameplay.jpg)
+![Gameplay](./images/Gameplay.jpg)
 
 ### Drifting
-![Drifting](./images/drift.jpg)
+![Drifting](./images/Drift.jpg)
 
 ### Game Over
-![Game Over](./images/game-over.jpg)
+![Game Over](./images/Game-Over.jpg)
 
 ## AI Support Used
 
