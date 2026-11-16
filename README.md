@@ -38,21 +38,21 @@ To play, upload the Arduino sketch to both ESP32 boards using Arduino IDE. Make 
 
 Here is a short video of the game in action:
 
-![Row the Boat Gameplay](images/game-demo.gif)
+![Row the Boat Gameplay](./images/game-demo.gif)
 
 ## Gameplay Screenshots
 
 ### Starting Screen
-![Starting Screen](images/starting-screen.jpg)
+![Starting Screen](./images/starting-screen.jpg)
 
 ### Gameplay
-![Gameplay](images/gameplay.jpg)
+![Gameplay](./images/gameplay.jpg)
 
 ### Drifting
-![Drifting](images/drift.jpg)
+![Drifting](./images/drift.jpg)
 
 ### Game Over
-![Game Over](images/game-over.jpg)
+![Game Over](./images/game-over.jpg)
 
 ## AI Support Used
 
